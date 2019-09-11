@@ -14,6 +14,7 @@ func main() {
 	fmt.Print("请输入密钥:")
 	fmt.Scan(&key)
 
+
 	listener, e := net.Listen("tcp", "0.0.0.0:8888")
 	if e != nil {
 		fmt.Printf("服务启动失败:%v\r\n",e)
