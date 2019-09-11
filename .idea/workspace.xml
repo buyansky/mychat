@@ -89,7 +89,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/utils/key.go</url>
+          <url>file://$PROJECT_DIR$/../mychat/utils/key.go</url>
           <line>8</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
